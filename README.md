@@ -1,2 +1,2 @@
 # first-project
-hello world
+starting a new journey!
